@@ -1,6 +1,6 @@
 # Hi, I'm Sriram Atmakuri 👋
 
-Senior Software Engineer with 6+ years building healthcare integrations, AI systems, and real-time data pipelines.
+Senior Software Engineer with 5+ years building healthcare integrations, AI systems, and real-time data pipelines.
 
 Currently at **DLCFL** shipping Node.js/GraphQL clinical dashboards. Previously at **Amazon AWS** on supply chain infrastructure.
 
